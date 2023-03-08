@@ -1,9 +1,6 @@
 
 ![Descricao da sua imagem](https://github.com/EduardoMiola/Primeiro-Site/blob/main/assets/Front-end-Site%20com%20HTML%20e%20CSS.png)
 
-![](https://github.com/EduardoMiola/Primeiro-Site/blob/main/assets/Front-end-Site%20com%20HTML%20e%20CSS.png)
-
-
 # Site com HTML e CSS
 
 ## Subtitulo
