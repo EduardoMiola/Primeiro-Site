@@ -5,24 +5,37 @@
 
 ## Subtitulo
 
-Adaptado por Eduardo Miola
+__Adaptado por Eduardo Miola__
 
 ## Escola
 
-Front-end e Programação
+8 Front-end e Programação
 
-## Detalhes
+# 🚀 Como executar o projeto
 
-Fiz um curso de programação inicial com foco em CSS e HTML, aprendi a programar desde o básico até partes mais avançadas a ponto de fazer meu site funcionar em diversos dispositivos diferentes.
+   - Faça o clone deste repositório em sua máquina local
+   - Abra o arquivo index.html no seu navegador da web
 
-## 📁 Acesso ao projeto
+# ⚙️ Funcionalidades
 
-Você pode [acessar o código fonte do projeto inicial][link](https://github.com/EduardoMiola/Primeiro-Site/edit/main) ou [baixá-lo](https://github.com/EduardoMiola/Primeiro-Site/edit/main)
+   * Página inicial com informações sobre meus contatos
+   * Página de informações sobre mim
 
-## 🛠️ Abrir e rodar o projeto
+# 📖 Aprendizados
 
-Aqui vem um passo a passo para abrir e rodar o projeto.
+   * Como utilizar o CSS para estilizar o layout do site
+   * Como utilizar o HTML para estruturar o conteúdo do site
+   * Como tornar o site responsivo utilizando o CSS media queries
+   * Como utilizar o Git e o GitHub para controlar as versões do código e compartilhar o projeto com outras pessoas
 
-- **Open an Existing Project** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+# 💻 Tecnologias utilizadas
+
+   * HTML
+   * CSS
+
+Contribuindo
+
+Contribuições são sempre bem-vindas! Se você quiser contribuir com o projeto, por favor, abra uma nova pull request com as suas mudanças.
+Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
