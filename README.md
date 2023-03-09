@@ -9,7 +9,7 @@ __Adaptado por Eduardo Miola__
 
 ## Escola
 
-8 Front-end e Programação
+* Front-end e Programação
 
 # 🚀 Como executar o projeto
 
@@ -33,9 +33,10 @@ __Adaptado por Eduardo Miola__
    * HTML
    * CSS
 
-Contribuindo
+# 💪 Contribuindo
 
 Contribuições são sempre bem-vindas! Se você quiser contribuir com o projeto, por favor, abra uma nova pull request com as suas mudanças.
-Licença
+
+# 🪛 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
